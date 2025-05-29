@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class GfG {
+class SecLar {
     
     static int getSecondLargest(int[] arr) {
         int n = arr.length;
