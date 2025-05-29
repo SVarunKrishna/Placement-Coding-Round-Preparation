@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class GfG {
+class AllZero {
 
     static void pushZerosToEnd(int[] arr) {
 
