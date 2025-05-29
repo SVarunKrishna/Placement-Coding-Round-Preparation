@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class GfG {
+class ReArr {
     
     static void reverseArray(int[] arr) {
         
